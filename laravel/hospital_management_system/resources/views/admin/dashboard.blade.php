@@ -77,8 +77,6 @@
         <a href="{{ route('admin.appointments') }}" class="block p-4 border border-gray-200 rounded hover:bg-gray-50 text-center">
             <span class="text-blue-600 font-medium">View Schedule</span>
         </a>
-
-        
     </div>
 </div>
 @endsection
